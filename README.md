@@ -25,7 +25,7 @@ This Bash script provides a reliable way to manage backups and monitor user acti
 
 1.  **Clone the repository or download the script:**
     ```bash
-    wget https://raw.githubusercontent.com/your-username/your-repo/main/backup-ovpn.sh
+    wget [https://raw.githubusercontent.com/your-username/your-repo/main/backup-ovpn.sh](https://raw.githubusercontent.com/saym101/openvpn-access-server-backup/main/backup-ovpn.sh)
     ```
 
 2.  **Make it executable:**
